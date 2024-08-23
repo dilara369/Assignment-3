@@ -9,19 +9,19 @@
     background-size: cover;
   }
   .imageone{
-    background: linear-gradient(to right, rgba(216, 182, 182, 0.42), rgba(124, 135, 136, 0.486)), url('./assets/article1.png');
+    background: linear-gradient(to right, rgba(255, 177, 177, 0.452), rgba(124, 135, 136, 0.486)), url('./assets/article1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .imagetwo {
-    background: linear-gradient(to right, rgba(207, 224, 224, 0.42), rgba(214, 219, 219, 0.486)), url('./assets/article2.png');
+    background: linear-gradient(to right, rgba(162, 247, 211, 0.42), rgba(60, 90, 81, 0.486)), url('./assets/article2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;  
 }
 .imagethree{
-    background: linear-gradient(to right, rgba(194, 218, 231, 0.42), rgba(124, 135, 136, 0.486)), url('./assets/article3.png');
+    background: linear-gradient(to right, rgba(236, 151, 201, 0.42), rgba(128, 199, 182, 0.356)), url('./assets/article3.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
