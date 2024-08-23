@@ -2,7 +2,10 @@
   font-family: "Manrope", sans-serif;
   font-optical-sizing: auto;}
 
-  /* header section  */
-  .linear {
-    background-image: linear-gradient(to right, rgba(192, 189, 189, 0.219),rgba(224, 219, 219, 0.226) 100%);
+  
+  .discuss{
+    background-image: url(./assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
+  
